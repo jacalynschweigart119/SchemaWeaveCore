@@ -1,0 +1,23 @@
+
+---
+
+### **3. 40_LogStackRadar**  
+**Description:**  
+Visualizes frequency and burst patterns in log files, highlighting repeated or critical messages.
+
+#### **README.md**
+```markdown
+# LogStackRadar - Repetition & Burst Log Analyzer
+
+LogStackRadar helps uncover noisy logs, error storms, and unusual log spikes using heatmap-style insights.
+
+## Features
+- Timestamp-based analysis  
+- Keyword clustering  
+- CLI summary  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_LogStackRadar.git
+cd 40_LogStackRadar
+python analyze.py
